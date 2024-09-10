@@ -103,3 +103,14 @@ Feel free to fork the project and improve it in any way you want! Be sure to rea
 
 ### License
 This project is licensed under the MIT License.
+
+## Attribution
+
+This project is a modified version of an original Prolog assignment created by David Matuszek.
+
+The original code and assignment details can be found here:
+- [Original Code on Rextester](https://rextester.com/ARMEK68152)
+- [David Matuszek's Prolog Assignment](http://matuszek.org/proglang/prolog-assignment.html)
+
+Our modified version expands on the original by adding new areas, enemies, items, and an enhanced gameplay experience.
+
